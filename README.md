@@ -3,7 +3,10 @@
 ## I'm currently working on
 
 Home Assistant Integrations and the python interfaces that power them. 
-You can find some of that work [here](https://github.com/JackJPowell/hass-unfoldedcircle), [here](https://github.com/JackJPowell/hass-psn), or [here](https://github.com/JackJPowell/hass-kub)
+You can find some of that work below
+- [Unfolded Circle Remote for Home Assistant](https://github.com/JackJPowell/hass-unfoldedcircle) 
+- [Playstation Network for Home Assistant](https://github.com/JackJPowell/hass-psn)
+- [Knoxville Utilities Board for Home Assistant](https://github.com/JackJPowell/hass-kub)
 <!--
 **JackJPowell/jackjpowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
