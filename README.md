@@ -9,7 +9,7 @@ You can find some of that work below
 - [Knoxville Utilities Board for Home Assistant](https://github.com/JackJPowell/hass-kub)
 - [JVC Projector Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-jvc)
 - [Plex Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-plex)
-- [PlayStation Netowrk Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-psn)
+- [PlayStation Network Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-psn)
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" height="35px" />
 
