@@ -7,6 +7,7 @@ You can find some of that work below
 - [Unfolded Circle Remote for Home Assistant](https://github.com/JackJPowell/hass-unfoldedcircle) 
 - [Playstation Network for Home Assistant](https://github.com/JackJPowell/hass-psn)
 - [Knoxville Utilities Board for Home Assistant](https://github.com/JackJPowell/hass-kub)
+- [Integration Manager for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-intg-manager)
 - [JVC Projector Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-jvc)
 - [Plex Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-plex)
 - [PlayStation Network Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-psn)
@@ -16,6 +17,8 @@ You can find some of that work below
 - [Lutron Caseta Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-lutron)
 - [Zwave Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-zwave)
 - [Hunter Douglas PowerView Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-powerview)
+- [Template Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-template)
+- [Demo Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-demo)
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" height="35px" />
 
