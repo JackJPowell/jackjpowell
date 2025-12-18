@@ -7,7 +7,7 @@ You can find some of that work below
 - [Unfolded Circle Remote for Home Assistant](https://github.com/JackJPowell/hass-unfoldedcircle) 
 - [Playstation Network for Home Assistant](https://github.com/JackJPowell/hass-psn)
 - [Knoxville Utilities Board for Home Assistant](https://github.com/JackJPowell/hass-kub)
-- [Integration Manager for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-intg-manager)
+- [Integration Manager for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-manager)
 - [JVC Projector Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-jvc)
 - [Plex Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-plex)
 - [PlayStation Network Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-psn)
