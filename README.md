@@ -17,6 +17,7 @@ You can find some of that work below
 - [Lutron Caseta Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-lutron)
 - [Zwave Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-zwave)
 - [Hunter Douglas PowerView Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-powerview)
+- [Channels DVR Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-channels)
 - [Template Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-template)
 - [Demo Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-demo)
 
