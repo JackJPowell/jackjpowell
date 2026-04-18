@@ -47,7 +47,6 @@ A suite of driver integrations for the [Unfolded Circle Remote Two](https://www.
   </tr>
   <tr>
     <td>🎵 <a href="https://github.com/JackJPowell/uc-intg-musicassistant">Music Assistant</a></td>
-    <td>🚀 <a href="https://github.com/JackJPowell/uc-intg-bootstrapper">Bootstrapper</a></td>
     <td>🔍 <a href="https://github.com/JackJPowell/uc-intg-diag">Diagnostics</a></td>
     <td></td>
   </tr>
