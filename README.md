@@ -1,39 +1,86 @@
-### Hi there, I'm Jack 👋
+<div align="center">
 
-## I'm currently working on
+# Hey, I'm Jack 👋
 
-Home Assistant Integrations and the python interfaces that power them. 
-You can find some of that work below
-- [Unfolded Circle Remote for Home Assistant](https://github.com/JackJPowell/hass-unfoldedcircle) 
-- [Playstation Network for Home Assistant](https://github.com/JackJPowell/hass-psn)
-- [Knoxville Utilities Board for Home Assistant](https://github.com/JackJPowell/hass-kub)
-- [Integration Manager for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-manager)
-- [JVC Projector Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-jvc)
-- [Plex Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-plex)
-- [PlayStation Network Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-psn)
-- [Samsung TV Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-samsungtv)
-- [Yamaha AVR Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-yamaha-avr)
-- [Broadlink Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-broadlink)
-- [Lutron Caseta Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-lutron)
-- [Zwave Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-zwave)
-- [Hunter Douglas PowerView Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-powerview)
-- [Channels DVR Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-channels)
-- [Template Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-template)
-- [Demo Integration for the Unfolded Circle Remote](https://github.com/JackJPowell/uc-intg-demo)
+### Python developer passionate about home automation, smart remotes, and open-source integrations
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" height="35px" />
+[![GitHub followers](https://img.shields.io/github/followers/JackJPowell?style=social)](https://github.com/JackJPowell)
 
-<details> 
-    <summary>
-        <b>💻 GitHub Profile Stats</b>
-    </summary>
-    <br/>
-    <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JackJPowell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JackJPowell&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JackJPowell&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SuperFullStack" height="192px"/>
-        <br/>
-    </p>
-</details>
-<br/>
+</div>
+
+---
+
+## 🏠 Home Assistant Integrations
+
+Custom integrations that bring more of your smart home into Home Assistant.
+
+| Project | Description |
+|---|---|
+| [🔵 Unfolded Circle Remote](https://github.com/JackJPowell/hass-unfoldedcircle) | Control your Unfolded Circle Remote Two from Home Assistant |
+| [🎮 PlayStation Network](https://github.com/JackJPowell/hass-psn) | Track PSN presence & game activity |
+| [⚡ Knoxville Utilities Board](https://github.com/JackJPowell/hass-kub) | Monitor your KUB energy usage |
+
+---
+
+## 🎛️ Unfolded Circle Remote Integrations
+
+A suite of driver integrations for the [Unfolded Circle Remote Two](https://www.unfoldedcircle.com/).
+
+<table>
+  <tr>
+    <td>🎬 <a href="https://github.com/JackJPowell/uc-intg-plex">Plex</a></td>
+    <td>🎮 <a href="https://github.com/JackJPowell/uc-intg-psn">PlayStation Network</a></td>
+    <td>📺 <a href="https://github.com/JackJPowell/uc-intg-samsungtv">Samsung TV</a></td>
+    <td>🔊 <a href="https://github.com/JackJPowell/uc-intg-yamaha-avr">Yamaha AVR</a></td>
+  </tr>
+  <tr>
+    <td>🎥 <a href="https://github.com/JackJPowell/uc-intg-jvc">JVC Projector</a></td>
+    <td>📡 <a href="https://github.com/JackJPowell/uc-intg-channels">Channels DVR</a></td>
+    <td>💡 <a href="https://github.com/JackJPowell/uc-intg-lutron">Lutron Caseta</a></td>
+    <td>🌐 <a href="https://github.com/JackJPowell/uc-intg-broadlink">Broadlink</a></td>
+  </tr>
+  <tr>
+    <td>🏠 <a href="https://github.com/JackJPowell/uc-intg-zwave">Z-Wave</a></td>
+    <td>🪟 <a href="https://github.com/JackJPowell/uc-intg-powerview">Hunter Douglas PowerView</a></td>
+    <td>🧩 <a href="https://github.com/JackJPowell/uc-intg-manager">Integration Manager</a></td>
+    <td>📄 <a href="https://github.com/JackJPowell/uc-intg-template">Template / Demo</a></td>
+  </tr>
+  <tr>
+    <td>🎵 <a href="https://github.com/JackJPowell/uc-intg-musicassistant">Music Assistant</a></td>
+    <td>🚀 <a href="https://github.com/JackJPowell/uc-intg-bootstrapper">Bootstrapper</a></td>
+    <td>🔍 <a href="https://github.com/JackJPowell/uc-intg-diag">Diagnostics</a></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Python Libraries & Frameworks
+
+Reusable libraries that power the integrations above.
+
+| Project | Description |
+| --- | --- |
+| [ucapi-framework](https://github.com/JackJPowell/ucapi-framework) | Framework for building UC Remote integrations — handles the boilerplate so you can focus on the device logic |
+| [py-unfolded-circle](https://github.com/JackJPowell/py-unfolded-circle) | Python interface library for the Unfolded Circle Remote API |
+
+---
+
+## 🗂️ Other Projects
+
+| Project | Description |
+| --- | --- |
+| [🎮 Cartridge](https://github.com/JackJPowell/Cartridge) | Self-hosted game collection website to catalog and track your personal library |
+| [⚡ KUB](https://github.com/JackJPowell/KUB) | Standalone utility for fetching and analyzing Knoxville Utilities Board usage data |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="JackJPowell's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JackJPowell&show_icons=true&count_private=true&theme=transparent" height="180px"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JackJPowell&show_icons=true&locale=en&layout=compact&theme=transparent" height="180px"/>
+</div>
 
