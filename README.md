@@ -62,7 +62,7 @@ Reusable libraries that power the integrations above.
 | Project | Description |
 | --- | --- |
 | [ucapi-framework](https://github.com/JackJPowell/ucapi-framework) | Framework for building UC Remote integrations — handles the boilerplate so you can focus on the device logic |
-| [py-unfolded-circle](https://github.com/JackJPowell/py-unfolded-circle) | Python interface library for the Unfolded Circle Remote API |
+| [unfurled](https://github.com/JackJPowell/unfurled) | Python interface library for the Unfolded Circle Remote API |
 
 ---
 
